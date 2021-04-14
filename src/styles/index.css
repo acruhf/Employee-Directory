@@ -1,6 +1,5 @@
 body {
     color: rgb(255, 255, 255);
-    font-family: 'Fjalla One', sans-serif;
     text-align: center;
     background-color: #ede5e2;
   }
@@ -14,6 +13,6 @@ body {
   }
   
   .jumbotron{
-    background-image: url("../images/navbar-bg.jpg");
+    background-image: url("../images/navbar.jpg");
     background-size: cover;
   }
