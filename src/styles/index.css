@@ -1,0 +1,19 @@
+body {
+    color: rgb(255, 255, 255);
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    background-color: #ede5e2;
+  }
+  
+  .form-inline{
+    margin: 0px auto !important;
+  }
+
+  img {
+    border-radius: 50px;
+  }
+  
+  .jumbotron{
+    background-image: url("../images/navbar-bg.jpg");
+    background-size: cover;
+  }
