@@ -13,8 +13,8 @@ function Navbar(props) {
   </div>
   <div className="row">
     <div  className="col align-self-center">
-      <h6> Filter by last name or use the search box to narrow your results<br></br>
-     </h6><br></br><br></br>
+      <h4> Filter by last name or use the search box to narrow your results<br></br>
+     </h4><br></br><br></br>
     </div><br></br>
   </div>
   </div>

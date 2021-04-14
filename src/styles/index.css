@@ -1,7 +1,9 @@
 body {
-    color: rgb(255, 255, 255);
+    color: black;
     text-align: center;
     background-color: #ede5e2;
+    margin: 0 auto;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   
   .form-inline{
@@ -15,4 +17,8 @@ body {
   .jumbotron{
     background-image: url("../images/navbar.jpg");
     background-size: cover;
+    font-family: 'Noto Serif', serif;
+    color: wheat;
   }
+
+  
