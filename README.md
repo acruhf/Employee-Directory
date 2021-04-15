@@ -16,4 +16,4 @@ before deploying.
 ## Usage
 Search for Employees in the search bar. All queries are case-sensitive.
 ## Preview
-![Screenshot](public\screenshots\screenshotdirectory.png)
+<img src= "./public/screenshots/screenshotdirectory.png" alt= "Screenshot of Deployed Directory" width="1000">
